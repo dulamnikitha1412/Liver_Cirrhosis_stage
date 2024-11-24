@@ -40,10 +40,6 @@ Processes and Survival Analysis, Wiley, 1991. A more extended discussion can be 
     <th><b>Description</b></th>
   </tr>
   <tr>
-    <td>ID</td>
-    <td>Unique Identifier</td>
-  </tr>
-  <tr>
     <td>N_Days</td>
     <td>Number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986</td>
   </tr>
