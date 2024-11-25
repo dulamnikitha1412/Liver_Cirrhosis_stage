@@ -1,10 +1,11 @@
 # Liver-Cirrhosis-Stage-Prediction
 
-<p>Liver cirrhosis is a widespread problem especially in North America due to high intake of alcohol. In this project, we will predict liver cirrhosis in a patient based on certain lifestyle and health conditions of a patient.</p>
+<p>Liver cirrhosis is a widespread problem especially in North America due to high intake of alcohol. In this project,a system that can output the level of liver damage (liver cirrhosis)  of given patient data.
 
 ![download](https://github.com/user-attachments/assets/32e74297-dcbd-4cc7-b74e-e1dc060f7900)
 ![cirhosis-liver](https://github.com/user-attachments/assets/6d0f623e-ec4e-442d-9d18-0e15e86f54bb)
 
+ Final Version :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
