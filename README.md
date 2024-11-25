@@ -5,7 +5,7 @@
 ![download](https://github.com/user-attachments/assets/32e74297-dcbd-4cc7-b74e-e1dc060f7900)
 ![cirhosis-liver](https://github.com/user-attachments/assets/6d0f623e-ec4e-442d-9d18-0e15e86f54bb)
 
- Final Version :
+ Final Version :(https://github.com/dulamnikitha1412/Liver_cirrhosis_stage/blob/main/Nikitha.ipynb)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
